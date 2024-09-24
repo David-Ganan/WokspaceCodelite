@@ -1,0 +1,1 @@
+../build-Release/Ejemplo_06/main.cpp.o   

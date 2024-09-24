@@ -1,0 +1,57 @@
+[{
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_paso_de_args\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_paso_de_args",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_paso_de_args\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_paso_de_args\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_12\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_12",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_12\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_12\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplos_segunda_practica\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplos_segunda_practica",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplos_segunda_practica\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplos_segunda_practica\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_11\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_11",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_11\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_11\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_07\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_07",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_07\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_07\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_10\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_10",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_10\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_10\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_03\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_03",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_03\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_03\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_06\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_06",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_06\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_06\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_08\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_08",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_08\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_08\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_05\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_05",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_05\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_05\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_01\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_01",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_01\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_01\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_09\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_09",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_09\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_09\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_02\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_02",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_02\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_02\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_04\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_04",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_04\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_04\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
+ }]

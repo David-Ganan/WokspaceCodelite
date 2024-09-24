@@ -1,0 +1,1 @@
+../build-Debug/EjemplosPrimeraPractica/Ejemplo1.cpp.o   
