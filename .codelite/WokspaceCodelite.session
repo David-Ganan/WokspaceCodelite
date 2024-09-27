@@ -1,47 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session Name="C:\Users\david\Documents\WokspaceCodelite\WokspaceCodelite.workspace">
-  <int Value="4" Name="m_selectedTab"/>
-  <wxString Value="C:\Users\david\Documents\WokspaceCodelite\WokspaceCodelite.workspace" Name="m_workspaceName"/>
+<Session Name="C:\Users\david\Documents\GitHub\WokspaceCodelite\WokspaceCodelite.workspace">
+  <int Value="0" Name="m_selectedTab"/>
+  <wxString Value="C:\Users\david\Documents\GitHub\WokspaceCodelite\WokspaceCodelite.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="C:\Users\david\Documents\WokspaceCodelite\Ejemplos_primera_practica\Ejemplo8.cpp" Name="FileName"/>
+      <wxString Value="C:\Users\david\Documents\GitHub\WokspaceCodelite\Ejemplo_13\Persona.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="17" Name="CurrentLine"/>
+      <int Value="12" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="C:\Users\david\Documents\WokspaceCodelite\Ejemplos_primera_practica\Ejemplo2.cpp" Name="FileName"/>
+      <wxString Value="C:\Users\david\Documents\GitHub\WokspaceCodelite\Ejemplo_13\Persona.hpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="C:\Users\david\Documents\WokspaceCodelite\Ejemplos_primera_practica\Ejemplo1.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="C:\Users\david\Documents\WokspaceCodelite\Ejemplos_primera_practica\Ejemplo3.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="C:\Users\david\Documents\WokspaceCodelite\Ejemplos_primera_practica\Ejemplo5.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="2" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="C:\Users\david\Documents\WokspaceCodelite\Ejemplos_primera_practica\Ejemplo7.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="13" Name="CurrentLine"/>
+      <int Value="10" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>

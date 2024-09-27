@@ -6,16 +6,16 @@
 ProjectName            :=Ejemplo_paso_de_args
 ConfigurationName      :=Release
 WorkspaceConfiguration :=Release
-WorkspacePath          :=C:/Users/david/Documents/WokspaceCodelite
-ProjectPath            :=C:/Users/david/Documents/WokspaceCodelite/Ejemplo_paso_de_args
+WorkspacePath          :=C:/Users/david/Documents/GitHub/WokspaceCodelite
+ProjectPath            :=C:/Users/david/Documents/GitHub/WokspaceCodelite/Ejemplo_paso_de_args
 IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Ejemplo_paso_de_args
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=david
-Date                   :=9/24/2024
-CodeLitePath           :=C:/Users/david/Documents/codelite-amd64-17.0.0/codelite
+Date                   :=9/27/2024
+CodeLitePath           :=C:/Users/david/Desktop/codelite-amd64-17.0.0/codelite
 MakeDirCommand         :=mkdir
 LinkerName             :=g++
 SharedObjectLinkerName :=g++ -shared -fPIC
@@ -29,7 +29,7 @@ OutputSwitch           :=-o
 LibraryPathSwitch      :=-L
 PreprocessorSwitch     :=-D
 SourceSwitch           :=-c 
-OutputDirectory        :=C:/Users/david/Documents/WokspaceCodelite/build-$(WorkspaceConfiguration)/bin
+OutputDirectory        :=C:/Users/david/Documents/GitHub/WokspaceCodelite/build-$(WorkspaceConfiguration)/bin
 OutputFile             :=..\build-$(WorkspaceConfiguration)\bin\$(ProjectName).exe
 Preprocessors          :=$(PreprocessorSwitch)NDEBUG 
 ObjectSwitch           :=-o 
@@ -63,7 +63,7 @@ AS       := as
 ##
 ## User defined environment variables
 ##
-CodeLiteDir:=C:\Users\david\Documents\codelite-amd64-17.0.0\codelite
+CodeLiteDir:=C:\Users\david\Downloads\codelite-amd64-17.0.0\codelite-amd64-17.0.0\codelite
 Objects0=$(IntermediateDirectory)/main.cpp$(ObjectSuffix) 
 
 
@@ -96,7 +96,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/david/Documents/WokspaceCodelite/Ejemplo_paso_de_args/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/david/Documents/GitHub/WokspaceCodelite/Ejemplo_paso_de_args/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
 
