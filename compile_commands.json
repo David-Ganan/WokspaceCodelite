@@ -1,69 +1,69 @@
 [{
-  "file": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_13\\main.cpp",
-  "directory": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_13",
-  "command": "clang++ -c C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_13\\main.cpp -o C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_13\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_13\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_13",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_13\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_13\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
  }, {
-  "file": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_13\\Persona.hpp",
-  "directory": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_13",
-  "command": "clang++ -c C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_13\\Persona.hpp -o C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_13\\Persona.hpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_13\\Persona.hpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_13",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_13\\Persona.hpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_13\\Persona.hpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
  }, {
-  "file": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_13\\Persona.cpp",
-  "directory": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_13",
-  "command": "clang++ -c C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_13\\Persona.cpp -o C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_13\\Persona.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_13\\Persona.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_13",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_13\\Persona.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_13\\Persona.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
  }, {
-  "file": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Tests\\main.cpp",
-  "directory": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Tests",
-  "command": "g++ -c C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Tests\\main.cpp -o C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Tests\\main.cpp.o -target x86_64-w64-mingw32 -DNDEBUG -I. -I.  -O2  -Wall"
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Tests\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Tests",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Tests\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Tests\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
  }, {
-  "file": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_paso_de_args\\main.cpp",
-  "directory": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_paso_de_args",
-  "command": "g++ -c C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_paso_de_args\\main.cpp -o C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_paso_de_args\\main.cpp.o -target x86_64-w64-mingw32 -DNDEBUG -I. -I.  -O2  -Wall"
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_paso_de_args\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_paso_de_args",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_paso_de_args\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_paso_de_args\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
  }, {
-  "file": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_11\\main.cpp",
-  "directory": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_11",
-  "command": "g++ -c C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_11\\main.cpp -o C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_11\\main.cpp.o -target x86_64-w64-mingw32 -DNDEBUG -I. -I.  -O2  -Wall"
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_11\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_11",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_11\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_11\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
  }, {
-  "file": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_07\\main.cpp",
-  "directory": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_07",
-  "command": "g++ -c C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_07\\main.cpp -o C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_07\\main.cpp.o -target x86_64-w64-mingw32 -DNDEBUG -I. -I.  -O2  -Wall"
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_07\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_07",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_07\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_07\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
  }, {
-  "file": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_10\\main.cpp",
-  "directory": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_10",
-  "command": "g++ -c C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_10\\main.cpp -o C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_10\\main.cpp.o -target x86_64-w64-mingw32 -DNDEBUG -I. -I.  -O2  -Wall"
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_10\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_10",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_10\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_10\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
  }, {
-  "file": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_05\\main.cpp",
-  "directory": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_05",
-  "command": "g++ -c C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_05\\main.cpp -o C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_05\\main.cpp.o -target x86_64-w64-mingw32 -DNDEBUG -I. -I.  -O2  -Wall"
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_05\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_05",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_05\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_05\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
  }, {
-  "file": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_08\\main.cpp",
-  "directory": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_08",
-  "command": "g++ -c C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_08\\main.cpp -o C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_08\\main.cpp.o -target x86_64-w64-mingw32 -DNDEBUG -I. -I.  -O2  -Wall"
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_08\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_08",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_08\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_08\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
  }, {
-  "file": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_03\\main.cpp",
-  "directory": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_03",
-  "command": "g++ -c C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_03\\main.cpp -o C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_03\\main.cpp.o -target x86_64-w64-mingw32 -DNDEBUG -I. -I.  -O2  -Wall"
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_03\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_03",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_03\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_03\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
  }, {
-  "file": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_06\\main.cpp",
-  "directory": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_06",
-  "command": "g++ -c C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_06\\main.cpp -o C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_06\\main.cpp.o -target x86_64-w64-mingw32 -DNDEBUG -I. -I.  -O2  -Wall"
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_06\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_06",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_06\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_06\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
  }, {
-  "file": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_01\\main.cpp",
-  "directory": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_01",
-  "command": "g++ -c C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_01\\main.cpp -o C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_01\\main.cpp.o -target x86_64-w64-mingw32 -DNDEBUG -I. -I.  -O2  -Wall"
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_01\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_01",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_01\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_01\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
  }, {
-  "file": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_09\\main.cpp",
-  "directory": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_09",
-  "command": "g++ -c C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_09\\main.cpp -o C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_09\\main.cpp.o -target x86_64-w64-mingw32 -DNDEBUG -I. -I.  -O2  -Wall"
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_09\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_09",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_09\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_09\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
  }, {
-  "file": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_02\\main.cpp",
-  "directory": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_02",
-  "command": "g++ -c C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_02\\main.cpp -o C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_02\\main.cpp.o -target x86_64-w64-mingw32 -DNDEBUG -I. -I.  -O2  -Wall"
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_02\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_02",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_02\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_02\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
  }, {
-  "file": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_12\\main.cpp",
-  "directory": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_12",
-  "command": "g++ -c C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_12\\main.cpp -o C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_12\\main.cpp.o -target x86_64-w64-mingw32 -DNDEBUG -I. -I.  -O2  -Wall"
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_12\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_12",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_12\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_12\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
  }, {
-  "file": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_04\\main.cpp",
-  "directory": "C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_04",
-  "command": "g++ -c C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_04\\main.cpp -o C:\\Users\\david\\Documents\\GitHub\\WokspaceCodelite\\Ejemplo_04\\main.cpp.o -target x86_64-w64-mingw32 -DNDEBUG -I. -I.  -O2  -Wall"
+  "file": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_04\\main.cpp",
+  "directory": "C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_04",
+  "command": "clang++ -c C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_04\\main.cpp -o C:\\Users\\david\\Documents\\WokspaceCodelite\\Ejemplo_04\\main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
  }]

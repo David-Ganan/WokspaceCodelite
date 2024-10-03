@@ -10,11 +10,11 @@
   <Project Name="Ejemplo_09" Path="Ejemplo_09/Ejemplo_09.project" Active="No"/>
   <Project Name="Ejemplo_10" Path="Ejemplo_10/Ejemplo_10.project" Active="No"/>
   <Project Name="Ejemplo_11" Path="Ejemplo_11/Ejemplo_11.project" Active="No"/>
-  <Project Name="Ejemplo_12" Path="Ejemplo_12/Ejemplo_12.project" Active="No"/>
+  <Project Name="Ejemplo_12" Path="Ejemplo_12/Ejemplo_12.project" Active="Yes"/>
   <Project Name="Ejemplo_paso_de_args" Path="Ejemplo_paso_de_args/Ejemplo_paso_de_args.project" Active="No"/>
   <Project Name="Ejemplo_07" Path="Ejemplo_07/Ejemplo_07.project" Active="No"/>
-  <Project Name="Tests" Path="Tests/Tests.project" Active="Yes"/>
-  <Project Name="Ejemplo_13" Path="Ejemplo_13/Ejemplo_13.project"/>
+  <Project Name="Tests" Path="Tests/Tests.project" Active="No"/>
+  <Project Name="Ejemplo_13" Path="Ejemplo_13/Ejemplo_13.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>

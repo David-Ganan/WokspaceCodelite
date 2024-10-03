@@ -6,35 +6,35 @@
 ProjectName            :=Ejemplo_12
 ConfigurationName      :=Release
 WorkspaceConfiguration :=Release
-WorkspacePath          :=C:/Users/david/Documents/GitHub/WokspaceCodelite
-ProjectPath            :=C:/Users/david/Documents/GitHub/WokspaceCodelite/Ejemplo_12
+WorkspacePath          :=C:/Users/david/Documents/WokspaceCodelite
+ProjectPath            :=C:/Users/david/Documents/WokspaceCodelite/Ejemplo_12
 IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Ejemplo_12
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=david
-Date                   :=9/27/2024
-CodeLitePath           :=C:/Users/david/Desktop/codelite-amd64-17.0.0/codelite
+Date                   :=9/29/2024
+CodeLitePath           :=C:/Users/david/Documents/codelite-amd64-17.0.0/codelite
 MakeDirCommand         :=mkdir
 LinkerName             :=g++
 SharedObjectLinkerName :=g++ -shared -fPIC
 ObjectSuffix           :=.o
-DependSuffix           :=.o.d
-PreprocessSuffix       :=.o.i
-DebugSwitch            :=-gstab
+DependSuffix           :=
+PreprocessSuffix       :=.i
+DebugSwitch            :=-g 
 IncludeSwitch          :=-I
 LibrarySwitch          :=-l
 OutputSwitch           :=-o 
 LibraryPathSwitch      :=-L
 PreprocessorSwitch     :=-D
 SourceSwitch           :=-c 
-OutputDirectory        :=C:/Users/david/Documents/GitHub/WokspaceCodelite/build-$(WorkspaceConfiguration)/bin
+OutputDirectory        :=C:/Users/david/Documents/WokspaceCodelite/build-$(WorkspaceConfiguration)/bin
 OutputFile             :=..\build-$(WorkspaceConfiguration)\bin\$(ProjectName).exe
 Preprocessors          :=$(PreprocessorSwitch)NDEBUG 
 ObjectSwitch           :=-o 
 ArchiveOutputSwitch    := 
-PreprocessOnlySwitch   :=-E 
+PreprocessOnlySwitch   :=-E
 ObjectsFileList        :=$(IntermediateDirectory)/ObjectsList.txt
 PCHCompileFlags        :=
 RcCmpOptions           := 
@@ -51,9 +51,9 @@ LibPath                := $(LibraryPathSwitch).
 ## Common variables
 ## AR, CXX, CC, AS, CXXFLAGS and CFLAGS can be overridden using an environment variable
 ##
-AR       := ar rcus
-CXX      := g++
-CC       := gcc
+AR       := ar rcu
+CXX      := rustc
+CC       := rustc
 CXXFLAGS :=  -O2 -Wall $(Preprocessors)
 CFLAGS   :=  -O2 -Wall $(Preprocessors)
 ASFLAGS  := 
@@ -63,7 +63,7 @@ AS       := as
 ##
 ## User defined environment variables
 ##
-CodeLiteDir:=C:\Users\david\Downloads\codelite-amd64-17.0.0\codelite-amd64-17.0.0\codelite
+CodeLiteDir:=C:\Users\david\Documents\codelite-amd64-17.0.0\codelite
 Objects0=$(IntermediateDirectory)/main.cpp$(ObjectSuffix) 
 
 
@@ -96,7 +96,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/david/Documents/GitHub/WokspaceCodelite/Ejemplo_12/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/david/Documents/WokspaceCodelite/Ejemplo_12/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
 

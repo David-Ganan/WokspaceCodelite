@@ -1,27 +1,36 @@
 #include "Persona.hpp"
-
-Persona::Persona()
-{
+Persona::Persona(int edad){
+    this->edad = edad;
+    this->genero = (rand() % 2);
+    this->generarDNI();
 }
-
-Persona::esMujer()
-{
-
+int Persona::getEdad(){
+    return this->edad;
 }
-Persona::getEdad()
-{
-
+bool Persona::esMujer(){
+    return this->genero;    //1:mujer, 0:hombre
 }
-Persona::mostrar()
-{
-
+void Persona::setEdad(int edad){
+    this->edad = edad;
 }
-Persona::setEdad()
-{
-
+void Persona::mostrar(){
+    string sexo = "El hombre";
+    if(genero)
+        sexo = "La mujer";
+    cout << "\t"<<setw(10) << sexo <<" con DNI " <<DNI<<" tiene "<<edad<<" anyos "<<endl;
 }
-
-Persona::~Persona()
-{
+void Persona::generarDNI(){
+    char letras[] = "TRWAGMYFPDXBNJZSQVHLCKE";
+    int numDNI = 0, aux = 1E7;
+    for(int i=0; i < 8; i++){
+        int num = rand() % 10;
+        this->DNI[i] = '0' + num;
+        numDNI = numDNI + num * aux;
+        aux /= 10;
+    }
+    this->DNI[8] = letras[numDNI %23];
+    this->DNI[9] = '\0';
 }
-
+Persona::~Persona(){
+    
+}
